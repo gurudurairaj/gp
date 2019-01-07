@@ -4,4 +4,5 @@ if f%2==0:
 elif f%2!=0:
     print("Odd")
 elif f<0:
-    print("Invalid")
+    print("invalid")
+https://github.com/gurudurairaj/gp/blob/master/evenodd.py
