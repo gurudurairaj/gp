@@ -4,5 +4,5 @@ if g>0:
 elif g<0:
     print("NEGATIVE")
 else:
-    print("zero")
+    print("ZERO")
     
