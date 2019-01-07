@@ -5,4 +5,3 @@ elif f%2!=0:
     print("Odd")
 elif f<0:
     print("invalid")
-https://github.com/gurudurairaj/gp/blob/master/evenodd.py
