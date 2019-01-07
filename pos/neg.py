@@ -1,8 +1,8 @@
 g=int(input())
 if g>0:
-   print("POSITIVE")
+   print("Positive")https://github.com/gurudurairaj/gp/blob/master/pos/neg.py
 elif g<0:
-    print("NEGATIVE")
+    print("Negative")
 else:
-    print("ZERO")
+    print("Zero")
     
