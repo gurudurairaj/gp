@@ -1,15 +1,7 @@
-f=input()
-if f.isalpha():
+fs=input()
+if fs.isalpha():
     print("Alphabet")
-elif f.isdigit():
+elif fs.isdigit():
     print("No")
 else:
     print("No")
-    f=input()
-if f.isalpha():
-    print("Alphabet")
-elif f.isdigit():
-    print("No")
-else:
-    print("No")
-    
