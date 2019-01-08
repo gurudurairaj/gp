@@ -9,6 +9,5 @@ for i in a:
         b.append(i)
     else:
         c.append(i)
-print(set(c))
 c.sort()
-print(c)
+print(set(c))
