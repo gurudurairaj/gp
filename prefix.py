@@ -29,7 +29,7 @@ for i in li:
         ind.append(i)
 del agf[0:len(agf)]
 for i in ind:
-    ff=a.find(i)
+    ff=inp[1].find(i)
     agf.append(ff)
 sss=min(agf)
 sss=agf.index(sss)
