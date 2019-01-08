@@ -10,4 +10,5 @@ for i in a:
     else:
         c.append(i)
 c.sort()
-print(set(c))
+g=set(c)
+print(*g)
