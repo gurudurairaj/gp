@@ -1,0 +1,5 @@
+n=input()
+n=list(n)
+n.append(".")
+g="".join(n)
+print(g)
