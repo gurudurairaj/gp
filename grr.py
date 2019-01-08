@@ -1,4 +1,3 @@
-aq=int(input())
-bq=int(input())
-cq=int(input())
+aq,bq,cq=input().split()
 dq=max(aq,bq,cq)
+print(dq)
