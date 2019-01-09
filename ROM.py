@@ -1,3 +1,3 @@
-a=["0","1","11","111","1V","V","V1","V11","V111","1X","X","X1","X11","X111","X1V","XV","XV1","XV11","XV111","X1X"]
+a=["0","l","ll","lll","lV","V","Vl","Vll","Vlll","lX","X","Xl","Xll","Xlll","XlV","XV","XVl","XVll","XVlll","XlX"]
 c=input()
 print(a.index(c))
