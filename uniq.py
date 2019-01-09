@@ -2,7 +2,8 @@ a={}
 n=int(input())
 h=[]
 for i in range(n):
-    h.append(input())
+    p=input()
+    h.append(p)
 for i in range(n):
     a[h[i]]=0
 for i in h:
