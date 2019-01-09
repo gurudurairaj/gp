@@ -8,4 +8,5 @@ for i in d:
     else:
         l.append(i)
 d=l[::-1]
-print(*d)
+d="".join(d)
+print(d)
