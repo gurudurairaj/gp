@@ -5,6 +5,8 @@ if a==e==c:
     print("yes")
 elif b==d==f:
     print("yes")
+elif a==b and c==d and d==e:
+    print("yes")
 else:
     print("no")
     
