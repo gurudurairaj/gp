@@ -7,7 +7,6 @@ w=n-1
 su=0
 suu=0
 for i in range(n):
-    print(i)
     a=list(map(int,input().split()))
     k.append(a)
 for i in range(n):
