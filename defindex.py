@@ -1,0 +1,5 @@
+s=input()
+a=list(map(int,input().split()))
+p=max(a)
+pp=min(a)
+print(a.index(p)-a.index(pp))
