@@ -4,7 +4,6 @@ i=0
 c=0
 m=[]
 while i <n:
-    print(i)
     if l[i]==0:
         del l[i]
         n=n-1
