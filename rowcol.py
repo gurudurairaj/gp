@@ -1,3 +1,4 @@
+#guru
 n,m=map(int,input().split())
 c=min(n,m)
 d=max(n,m)
