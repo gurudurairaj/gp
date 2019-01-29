@@ -14,10 +14,7 @@ for i in range(d):
     for k in range(c):
         l[k][i]=h[k]
     del h[0:len(h)]
-for i in range(c):
-    for j in range(d):
-        print(l[i][j],end=" ")
-    print()
+print(l)
 
         
 
