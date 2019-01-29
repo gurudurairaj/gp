@@ -1,7 +1,8 @@
 n=int(input())
 a=[]
 for i in range(n):
-    a.append(list(map(int,input().split())))
+    v=list(map(int,input().split()))
+    a.append(v)
 c=0
 d=0
 s=0
