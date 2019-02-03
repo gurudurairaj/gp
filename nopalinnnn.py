@@ -8,6 +8,6 @@ h=str(h)
 h=list(h)
     
 if h==h[::-1]:
-    print("yes")
+    print("YES")
 else:
-    print("no")
+    print("NO")
