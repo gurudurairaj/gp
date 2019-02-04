@@ -1,7 +1,7 @@
 a,b=map(int,input().split())
 c=list(map(int,input().split()))
 if b in c:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
     
