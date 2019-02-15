@@ -14,6 +14,6 @@ for i in range(2**a):
     else:
         l.append(x)
 for i in l:
-    print(i)
+    print(i,end="\n")
         
             
