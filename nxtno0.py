@@ -4,7 +4,7 @@ g=str(a)
 g=list(g)
 g.sort()
 c=0
-for i in range(100):
+for i in range(10000):
     v=v+1
     y=str(v)
     y=list(y)
