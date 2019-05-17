@@ -1,7 +1,7 @@
 g=int(input())
 l=[]
 l.append(0)
-for i in range(100000000):
+for i in range(10000):
     if g==100000:
         break
     a=str(i)
