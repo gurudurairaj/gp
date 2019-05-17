@@ -17,5 +17,5 @@ while i<len(d):
     j=kk
     i=i+1
 for i in range(len(g)):
-    print(g[i])
+    print(g[i],"\n")
 
