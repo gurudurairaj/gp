@@ -1,6 +1,6 @@
 n,m,o=map(int,input().split())
 c=0
-for i in range(n,m):
+for i in range(n,m+1):
     a=str(i)
     if a.find(str(o))==-1:
         pass
