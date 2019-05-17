@@ -10,7 +10,6 @@ for i in range(1,g):
         l.append(i)
 for i in range(len(l)):
     for j in range(i,len(l)):
-        if l[i]+l[j]==g and l[i]<=
-        l[j]:
+        if l[i]+l[j]==g and l[i]<=l[j]:
             f=f+1
 print(f)
