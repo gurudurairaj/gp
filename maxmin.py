@@ -1,0 +1,5 @@
+a=int(input())
+s=list(map(int,input().split()))
+d=max(s)
+f=min(s)
+print(abs(d-f))
