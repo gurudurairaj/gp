@@ -9,7 +9,7 @@ while i<len(d):
     c=0
     while j<=len(d):
         a=d[c:j]
-        if a not in g:
+        if a not in g and len(a)>1:
             g.append(a)
         j=j+1
         c=c+1
