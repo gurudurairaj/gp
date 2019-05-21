@@ -4,4 +4,5 @@ a=[]
 for i in range(m):
     x,y=map(int,input().split())
     a.append(sum(z[x-1:y]))
-print(a)
+for i in range(len(a)):
+    print(a[i])
