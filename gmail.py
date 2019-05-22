@@ -14,7 +14,7 @@ if a.count("@")==1 and a.count(".")==1 and a[len(a)-4:len(a)]==".com":
         if a[i]==".":
             break
         s=s+a[i]
-    if len(s)>=4:
+    if len(s)==5 and s=="gmail":
         c=c+1
     if c==2:
         print("YES")
